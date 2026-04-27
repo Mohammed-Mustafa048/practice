@@ -1,0 +1,6 @@
+print("HI")
+n=int(input())
+if n%==0
+print ("even")
+else:
+print("odd")
